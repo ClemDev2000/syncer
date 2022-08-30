@@ -10,7 +10,7 @@ curl -L https://raw.githubusercontent.com/ClemDev2000/syncer/main/download-lates
 
 ## Examples
 
-**⚠️ Syncer will always delete the files from slave that are not present in root. Proceed with caution to avoid data loss.**
+**⚠️ Syncer will always delete the files from `slave` that are not present in `root`. Proceed with caution to avoid data loss.**
 
 Copy files from root to slave:
 
